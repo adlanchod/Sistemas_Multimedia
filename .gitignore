@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Ignorar archivos con extensión .log
+*.log
+
+# Ignorar la carpeta backup creada como ejemplo  y todo su contenido.
+backup/
