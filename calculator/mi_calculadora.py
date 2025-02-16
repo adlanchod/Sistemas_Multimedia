@@ -3,7 +3,7 @@ def read_numbers():
     num1 = float(input('Enter first number: '))
     num2 = float(input('Enter second number: '))
     return num1, num2
-
+# Cambio realizado en el repositorio local
 # Simple menu.
 print('Welcome to the calculator!')
 print('Please choose an operation:')
