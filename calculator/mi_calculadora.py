@@ -1,5 +1,5 @@
 # Custom function to read the two numbers.
-# Cambio realizado con exito.
+# Cambio realizado con exito en GitHub.
 def read_numbers():
     num1 = float(input('Enter first number: '))
     num2 = float(input('Enter second number: '))
